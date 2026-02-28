@@ -16,3 +16,4 @@
 ## Author
 Faisal Abdelkarim  
 AI & Prompt Engineering Enthusiast
+🔗 LinkedIn: https://www.linkedin.com/in/faisal-abdelkarim-a441a5377
