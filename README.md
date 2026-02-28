@@ -57,3 +57,33 @@ When you’re in a new role, you often don’t know the standard structure for a
 
 **Call to Action:**  
 If you could have a "first draft" of any document waiting for you tomorrow morning, what would it be?
+
+---
+
+## Prompt Improvements (v3 – Role-Specific)
+
+### Target Role
+Junior Analyst (Data, AI, or Business)
+
+### What Changed
+- Added clear role context to reflect early-career responsibilities
+- Focused on real workplace scenarios (meetings, documentation, sprint work)
+- Emphasized AI as a support tool, not a decision-maker
+
+### Result
+More grounded and credible content ideas that reflect how junior analysts actually work and learn on the job.
+
+### Example Output (v3)
+
+**Idea: The "Meeting-to-Action" Workflow**
+
+**Hook:**  
+I used to spend more time formatting my meeting notes than actually doing the follow-up tasks—until I started using AI as a "drafting partner."
+
+**Explanation:**  
+As a Junior Analyst, I’m often the one responsible for capturing requirements during stakeholder calls. Now, instead of staring at a blank page, I feed my raw, messy notes into a LLM with a simple prompt:  
+"Organize these into three categories: Key Decisions, Data Requirements, and Pending Questions."  
+It doesn't replace my judgment—I still have to verify every point—but it gets me to the "doing" phase 30 minutes faster. It’s been a game-changer for ensuring nothing falls through the cracks during busy sprint cycles.
+
+**Call to Action:**  
+For those in similar roles, how are you using AI to handle the "administrative" side of analysis?
