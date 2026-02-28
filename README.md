@@ -20,7 +20,7 @@ AI & Prompt Engineering Enthusiast
 
 ---
 
-## Example (V1) Output (Tested with Google Gemini)
+## Example (v1) Output (Tested with Google Gemini)
 
 ### Idea: Breaking the "Blank Page" Curse
 
